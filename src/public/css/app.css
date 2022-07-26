@@ -1,0 +1,15 @@
+h1 {
+  color: red; }
+
+h2 {
+  color: green; }
+
+.user-avartar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px; }
+
+.checkbox-select-all-options {
+  width: 160px;
+  margin: 0px 16px; }
